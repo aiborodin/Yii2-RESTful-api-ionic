@@ -1,0 +1,23 @@
+{
+    "name": "hoaaah/yii2-rest-api-template",
+    "description": "REST API with Yii2",
+    "license": "Apache-2.0",
+    "require": {
+        "yiisoft/yii2": "~2.0.41.1"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "~2.1.0"
+    },
+    "authors": [
+        {
+            "name": "Alex Borodin",
+            "email": "alockylu@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
